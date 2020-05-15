@@ -1069,6 +1069,14 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+
+    .agency-description{
+        width: 90%;
+    }
+    
+    .portfolio-indication{
+        width: 90%;
+    }
 }
 
 @media (max-width: 767px) {
